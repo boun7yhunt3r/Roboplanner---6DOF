@@ -78,5 +78,11 @@ that any researcher can run with two terminal commands.
   </tr>
 </table>
 
+<img width="958" height="454" alt="image" src="https://github.com/user-attachments/assets/00832f95-ed45-4aa1-b62b-cee2394e632f" />
+<img width="134" height="202" alt="image" src="https://github.com/user-attachments/assets/c469abe6-c80e-4f37-97dd-6fa98778bf63" />
+<img width="126" height="140" alt="image" src="https://github.com/user-attachments/assets/9c45d3e5-3045-4016-912b-db23bfbdd865" />
+
+
+
 
 
