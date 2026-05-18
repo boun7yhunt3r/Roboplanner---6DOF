@@ -58,3 +58,25 @@ that any researcher can run with two terminal commands.
 | **Backend** | Python 3.11 + FastAPI |
 | **Kinematics** | NumPy (custom DH implementation) |
 | **Planning** | Custom RRT + LERP (no external planner dependency) |
+
+## Visualization Examples
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/8b22c019-57c6-4e7c-b039-fda00ce22c34" width="280" height="240" alt="Front view — path planning result"/>
+      <br/><sub><b>Front View</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/d94b7d02-5ad7-43cb-9b25-8a38de0d83ee" width="280" height="240" alt="Side view — path planning result"/>
+      <br/><sub><b>Side View</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/537aafe4-7b0d-4a5b-aa19-3e8cd527450a" width="280" height="240" alt="Top view — path planning result"/>
+      <br/><sub><b>Top View</b></sub>
+    </td>
+  </tr>
+</table>
+
+
+
